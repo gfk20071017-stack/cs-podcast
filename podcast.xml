@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>清晨 CS 破壁机：华师大自学电台</title>
+    <link>https://gfk20071017-stack.github.io/cs-podcast/</link>
+    <language>zh-cn</language>
+    <description>华东师大学长老林与大一萌新小林的双人全中文费曼计算机自学科普播客。</description>
+    <itunes:author>老林 &amp; 小林</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Technology"/>
+    <itunes:image href="https://csdiy.wiki/images/title.png"/>
+    
+    <item>
+      <title>第 1 期：Emacs 编辑器入门精讲</title>
+      <description>老林与小林双人费曼精讲：Emacs 与 Vim 对照、按键肌肉记忆、强大扩展性与核心逻辑。</description>
+      <pubDate>Fri, 23 Oct 2026 06:30:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/gfk20071017-stack/cs-podcast/main/episodes/today.mp3" type="audio/mpeg" length="246886"/>
+      <guid>https://raw.githubusercontent.com/gfk20071017-stack/cs-podcast/main/episodes/today.mp3</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
+  </channel>
+</rss>
